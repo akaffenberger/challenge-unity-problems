@@ -1,5 +1,6 @@
 # Unity Challenges
 A 4-hour challenge to solve 3 problems using Unity.
+https://akaffenberger.github.io/challenge-unity-problems/
 
 ### Problem 1
 
